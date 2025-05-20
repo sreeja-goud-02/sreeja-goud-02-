@@ -26,8 +26,8 @@ Achievements
 💡 Projects: online learning platform,agribuzz,Recpie Blog,etc.
 
 Connect With Me
-🔗 [GitHub]
-🔗 [LinkedIn]
+🔗 [GitHub]  https://github.com/sreeja-goud-02
+🔗 [LinkedIn]  
 📧 Email: vangasreeja@example.com (replace with your actual email)
 🌐 [Portfolio] (add your portfolio link if available)
 
