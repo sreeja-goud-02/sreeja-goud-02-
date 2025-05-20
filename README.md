@@ -27,7 +27,7 @@ Achievements
 
 Connect With Me
 🔗 [GitHub]  https://github.com/sreeja-goud-02
-🔗 [LinkedIn]  
-📧 Email: vangasreeja@example.com (replace with your actual email)
-🌐 [Portfolio] (add your portfolio link if available)
+🔗 [LinkedIn]  https://www.linkedin.com/in/vanga-sreeja-622914327/
+📧 Email: vsreeja64@gmail.com
+🌐 [Portfolio] 
 
